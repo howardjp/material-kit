@@ -12,6 +12,9 @@ main_menu_settings:
     - title: FAQ
       url: /faq
       icon: quiz
+    - title: Get Involved
+      url: /get-involved
+      icon: groups
     - title: The Fellowship
       url: /fellowship
       icon: school
